@@ -122,4 +122,4 @@ Improve UI/UX with more dynamic visuals
 Automate data ingestion pipeline
 
 Interactive Dashboard link = https://shorturl.at/wuzAR
-Image of Dashboard = 
+Image of Dashboard = https://shorturl.at/4Wjev
